@@ -1,0 +1,11 @@
+/workspaces/QTC/build/CMakeFiles/qtc_core.dir
+/workspaces/QTC/build/CMakeFiles/qtc_node.dir
+/workspaces/QTC/build/CMakeFiles/package.dir
+/workspaces/QTC/build/CMakeFiles/package_source.dir
+/workspaces/QTC/build/CMakeFiles/test.dir
+/workspaces/QTC/build/CMakeFiles/edit_cache.dir
+/workspaces/QTC/build/CMakeFiles/rebuild_cache.dir
+/workspaces/QTC/build/CMakeFiles/list_install_components.dir
+/workspaces/QTC/build/CMakeFiles/install.dir
+/workspaces/QTC/build/CMakeFiles/install/local.dir
+/workspaces/QTC/build/CMakeFiles/install/strip.dir

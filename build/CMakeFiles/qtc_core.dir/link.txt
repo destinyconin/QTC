@@ -1,0 +1,2 @@
+/usr/bin/ar qc libqtc_core.a CMakeFiles/qtc_core.dir/src/blockchain/Block.cpp.o CMakeFiles/qtc_core.dir/src/blockchain/Blockchain.cpp.o CMakeFiles/qtc_core.dir/src/blockchain/Transaction.cpp.o CMakeFiles/qtc_core.dir/src/wallet/Wallet.cpp.o CMakeFiles/qtc_core.dir/src/network/Node.cpp.o CMakeFiles/qtc_core.dir/src/rpc/RpcServer.cpp.o CMakeFiles/qtc_core.dir/src/zk/Zk.cpp.o
+/usr/bin/ranlib libqtc_core.a
