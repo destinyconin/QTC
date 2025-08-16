@@ -1,0 +1,3 @@
+[submodule "extern/libsnark"]
+	path = extern/libsnark
+	url = https://github.com/scipr-lab/libsnark
